@@ -15,4 +15,14 @@
 ```
 ***
 
-![Alt text](https://github.com/spaXXE/Hackers-Chat-App-over-Lora-W.A.N/blob/Main/Images/Project's%20Structure%20Mindmap.png, "As an appetiser, we humbly offer you.....")
+
+
+### As an appetiser, we humbly offer you.....
+
+# The Project's Structure.
+
+![Alt text](https://github.com/spaXXE/Hackers-Chat-App-over-Lora-W.A.N/blob/Main/Images/Project's%20Structure%20Mindmap.png)
+
+# The Sofware's Components and Structure Model.
+
+![Alt text](https://github.com/spaXXE/Hackers-Chat-App-over-Lora-W.A.N/blob/Main/Images/Software's%20Components%20and%20Structure%20Model.png)
