@@ -15,4 +15,4 @@
 ```
 ***
 
-![Alt text](https://github.com/spaXXE/Hackers-Chat-App-over-Lora-W.A.N/blob/Main/Images/Project's%20Structure%20Mindmap.png "As an appetiser, we humbly offer you.....")
+![Alt text](https://github.com/spaXXE/Hackers-Chat-App-over-Lora-W.A.N/blob/Main/Images/Project's%20Structure%20Mindmap.png, "As an appetiser, we humbly offer you.....")
