@@ -1,7 +1,6 @@
 ## Under vigorous Development...
 
-    ### Watch out for exclusive tech. coming your way!!
-
+### Watch out for exclusive tech. coming your way😎!
 
 ```py
     import time 
@@ -10,7 +9,8 @@
         
         while 1:
             time.delay()
-            break # DISCLAIMER: will break soon...
+            break # DISCLAIMER: Heads up, will break soon...
 
     development()
 ```
+***
