@@ -1,4 +1,4 @@
-# Under vigorous Development...
+# Under rigorous Development...
 
 ### Watch out for exclusive tech. coming your way😎!
 
@@ -17,7 +17,7 @@
 
 ***
 
-    ### As an appetiser, we humbly offer you.....
+   ### As an appetiser, we humbly offer you.....
 
 ***
 
