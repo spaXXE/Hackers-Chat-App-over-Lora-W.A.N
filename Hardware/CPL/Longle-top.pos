@@ -1,0 +1,22 @@
+### Footprint positions - created on Thu Jun 22 14:20:25 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val               Package                                       PosX       PosY       Rot  Side
+AE301     Antenna_Shield    SMA_Amphenol_901-143_Horizontal           165.0286  -101.6736  -90.0000  top
+C102      2u2               C_0402_1005Metric                         141.7574  -106.1746   90.0000  top
+C106      100n              C_0402_1005Metric                         166.3694   -94.6746   90.0000  top
+C107      100n              C_0402_1005Metric                         166.3694  -108.6506   90.0000  top
+D101      WS2812B           LED_WS2812B-2020_PLCC4_2.0x2.0mm          164.2364   -94.7166  180.0000  top
+D102      WS2812B           LED_WS2812B-2020_PLCC4_2.0x2.0mm          164.2364  -108.6866  180.0000  top
+D201      LED_O             LED_0402_1005Metric                       140.9324  -104.1146    0.0000  top
+D202      LED_B             LED_0402_1005Metric                       141.0256   -99.2886  180.0000  top
+J101      USB_A             USB_A_CNCTech_1001-011-01101_Horizontal   128.0716  -101.6736  180.0000  top
+R202      10K_0.1%          R_0402_1005Metric                         141.7876   -97.2546  -90.0000  top
+R203      1K___0.1%         R_0402_1005Metric                         140.5176   -97.2586   90.0000  top
+R204      1K___0.1%         R_0402_1005Metric                         140.4874  -106.1466   90.0000  top
+SW201     SW_RST            SW_SPST_B3U-1000P                         139.9316  -109.1946    0.0000  top
+SW202     SW_USER           SW_SPST_B3U-1000P                         139.9286   -94.2326  180.0000  top
+U102      USBLC6-2P6        SOT-666                                   141.0256  -101.6736    0.0000  top
+U301      Ai-Thinker-Ra-01  Ai-Thinker-Ra-01-LoRa                     151.5816  -101.6736  -90.0000  top
+## End

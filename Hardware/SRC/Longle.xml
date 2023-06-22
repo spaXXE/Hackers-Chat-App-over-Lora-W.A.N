@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>F:\MyStufff\Theme\Life\Dongle\Longle\Longle\SRC\Longle.kicad_sch</source>
+    <date>08/06/2023 14:00:42</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Longle.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>STM32F042K6.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/RF_LORA_RA-01/" tstamps="/13943843-5d8a-4b85-91a9-cba34e9c07a7/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RF_LORA_RA-01.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C101">
+      <value>2u2</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL05A225MP5NSNC</field>
+        <field name="UNIT PRICE">0.0038</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL05A225MP5NSNC"/>
+      <property name="UNIT PRICE" value="0.0038"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d99b3e0-dded-45a1-98ef-8df0dc54b7b0</tstamps>
+    </comp>
+    <comp ref="C102">
+      <value>2u2</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL05A225MP5NSNC</field>
+        <field name="UNIT PRICE">0.0038</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL05A225MP5NSNC"/>
+      <property name="UNIT PRICE" value="0.0038"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89a2c7a1-eeda-47ae-8d6d-45539ae84dcc</tstamps>
+    </comp>
+    <comp ref="C103">
+      <value>2u2</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL05A225MP5NSNC</field>
+        <field name="UNIT PRICE">0.0038</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL05A225MP5NSNC"/>
+      <property name="UNIT PRICE" value="0.0038"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57708675-b9ac-4da0-ba1a-4cd71049152c</tstamps>
+    </comp>
+    <comp ref="C104">
+      <value>2u2</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL05A225MP5NSNC</field>
+        <field name="UNIT PRICE">0.0038</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL05A225MP5NSNC"/>
+      <property name="UNIT PRICE" value="0.0038"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>107f7785-13c5-430a-8e0e-eb4500bd58fd</tstamps>
+    </comp>
+    <comp ref="C105">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">CCTC</field>
+        <field name="MPN">TCC0402X7R104K160AT</field>
+        <field name="UNIT PRICE">0.0009 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="CCTC"/>
+      <property name="MPN" value="TCC0402X7R104K160AT"/>
+      <property name="UNIT PRICE" value="0.0009 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57fe9506-de9f-44f5-b8a1-2e3e8a20e55d</tstamps>
+    </comp>
+    <comp ref="C106">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">CCTC</field>
+        <field name="MPN">TCC0402X7R104K160AT</field>
+        <field name="UNIT PRICE">0.0009 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="CCTC"/>
+      <property name="MPN" value="TCC0402X7R104K160AT"/>
+      <property name="UNIT PRICE" value="0.0009 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a4573e3-42ce-470e-bbb7-9f93671c31b2</tstamps>
+    </comp>
+    <comp ref="C107">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">CCTC</field>
+        <field name="MPN">TCC0402X7R104K160AT</field>
+        <field name="UNIT PRICE">0.0009 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="CCTC"/>
+      <property name="MPN" value="TCC0402X7R104K160AT"/>
+      <property name="UNIT PRICE" value="0.0009 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76d11422-fe70-4e27-b6d8-0b2d92d1a1d5</tstamps>
+    </comp>
+    <comp ref="D101">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="MANUFACTURER">XINGLIGHT</field>
+        <field name="MPN">XL-2020RGBC-WS2812B</field>
+        <field name="UNIT PRICE">0.0738</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="MANUFACTURER" value="XINGLIGHT"/>
+      <property name="MPN" value="XL-2020RGBC-WS2812B"/>
+      <property name="UNIT PRICE" value="0.0738"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfe04e6a-a9a7-4fbe-bf98-0077084efd2a</tstamps>
+    </comp>
+    <comp ref="D102">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <fields>
+        <field name="MANUFACTURER">XINGLIGHT</field>
+        <field name="MPN">XL-2020RGBC-WS2812B</field>
+        <field name="UNIT PRICE">0.0738</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="MANUFACTURER" value="XINGLIGHT"/>
+      <property name="MPN" value="XL-2020RGBC-WS2812B"/>
+      <property name="UNIT PRICE" value="0.0738"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c9b471b-b78a-4a33-80a2-f78b2b985aa7</tstamps>
+    </comp>
+    <comp ref="FB101">
+      <value>220R@100MHz 1A</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">Sunlord</field>
+        <field name="MPN">GZ0603D221TF</field>
+        <field name="UNIT PRICE">0.0046</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="UNIT PRICE" value="0.0046"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="MANUFACTURER" value="Sunlord"/>
+      <property name="MPN" value="GZ0603D221TF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="Ferrite bead, small symbol"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92aa5144-be68-4574-844f-c570a13af521</tstamps>
+    </comp>
+    <comp ref="J101">
+      <value>USB_A</value>
+      <footprint>Connector_USB:USB_A_CNCTech_1001-011-01101_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="MANUFACTURER">SHOU HAN</field>
+        <field name="MPN">AM 180°</field>
+        <field name="UNIT PRICE">0.0394</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Connector" part="USB_A" description="USB Type A connector"/>
+      <property name="MANUFACTURER" value="SHOU HAN"/>
+      <property name="MPN" value="AM 180°"/>
+      <property name="UNIT PRICE" value="0.0394"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="USB Type A connector"/>
+      <property name="ki_keywords" value="connector USB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df84463b-046b-47be-8cb2-266d3a701523</tstamps>
+    </comp>
+    <comp ref="U101">
+      <value>TLV75533PDRV</value>
+      <footprint>Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tlv755p.pdf</datasheet>
+      <fields>
+        <field name="MANUFACTURER">Texas Instruments</field>
+        <field name="MPN">TLV75533PDRVR</field>
+        <field name="UNIT PRICE">0.2832 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="TLV75533PDRV" description="500mA Low Dropout Voltage Regulator, Fixed Output 3.3V, WSON6"/>
+      <property name="MANUFACTURER" value="Texas Instruments"/>
+      <property name="MPN" value="TLV75533PDRVR"/>
+      <property name="UNIT PRICE" value="0.2832 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="500mA Low Dropout Voltage Regulator, Fixed Output 3.3V, WSON6"/>
+      <property name="ki_keywords" value="LDO Regulator Fixed Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>566e1326-9282-42ff-96eb-a4e378b78985</tstamps>
+    </comp>
+    <comp ref="U102">
+      <value>USBLC6-2P6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-666</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
+      <fields>
+        <field name="MANUFACTURER">TECH PUBLIC</field>
+        <field name="MPN">USBLC6-2P6</field>
+        <field name="UNIT PRICE">0.1158</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Power_Protection" part="USBLC6-2P6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-666"/>
+      <property name="MANUFACTURER" value="TECH PUBLIC"/>
+      <property name="MPN" value="USBLC6-2P6"/>
+      <property name="UNIT PRICE" value="0.1158"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Longle.kicad_sch"/>
+      <property name="ki_description" value="Very low capacitance ESD protection diode, 2 data-line, SOT-666"/>
+      <property name="ki_keywords" value="usb ethernet video"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96fbeab8-d61c-43fc-8a91-23c5ea126449</tstamps>
+    </comp>
+    <comp ref="C201">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">CCTC</field>
+        <field name="MPN">TCC0402X7R104K160AT</field>
+        <field name="UNIT PRICE">0.0009 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="CCTC"/>
+      <property name="MPN" value="TCC0402X7R104K160AT"/>
+      <property name="UNIT PRICE" value="0.0009 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>3bf5a401-4408-4241-93c2-661b6f7bd699</tstamps>
+    </comp>
+    <comp ref="C202">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">CCTC</field>
+        <field name="MPN">TCC0402X7R104K160AT</field>
+        <field name="UNIT PRICE">0.0009 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="CCTC"/>
+      <property name="MPN" value="TCC0402X7R104K160AT"/>
+      <property name="UNIT PRICE" value="0.0009 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>1c9b9c27-fda2-43ce-b375-dcfa6dc20111</tstamps>
+    </comp>
+    <comp ref="C203">
+      <value>2u2</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL05A225MP5NSNC</field>
+        <field name="UNIT PRICE">0.0038</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL05A225MP5NSNC"/>
+      <property name="UNIT PRICE" value="0.0038"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>ecfea899-7141-4e4a-b537-3a36825961b1</tstamps>
+    </comp>
+    <comp ref="C204">
+      <value>2u2</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL05A225MP5NSNC</field>
+        <field name="UNIT PRICE">0.0038</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL05A225MP5NSNC"/>
+      <property name="UNIT PRICE" value="0.0038"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>8004d734-4c29-4917-83a5-273391b838b3</tstamps>
+    </comp>
+    <comp ref="C205">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">CCTC</field>
+        <field name="MPN">TCC0402X7R104K160AT</field>
+        <field name="UNIT PRICE">0.0009 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="CCTC"/>
+      <property name="MPN" value="TCC0402X7R104K160AT"/>
+      <property name="UNIT PRICE" value="0.0009 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>c15391ba-24fc-4fbb-99f7-d3b3f1fced06</tstamps>
+    </comp>
+    <comp ref="C206">
+      <value>2u2</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL05A225MP5NSNC</field>
+        <field name="UNIT PRICE">0.0038</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MANUFACTURER" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL05A225MP5NSNC"/>
+      <property name="UNIT PRICE" value="0.0038"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>b7c27484-26f8-4660-ab3b-77ff0d8a0106</tstamps>
+    </comp>
+    <comp ref="D201">
+      <value>LED_O</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">XINGLIGHT</field>
+        <field name="MPN">XL-1005UOC</field>
+        <field name="UNIT PRICE">0.01</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="MANUFACTURER" value="XINGLIGHT"/>
+      <property name="MPN" value="XL-1005UOC"/>
+      <property name="UNIT PRICE" value="0.01"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>f8fd460a-d595-4ff2-a528-1d041c0197ec</tstamps>
+    </comp>
+    <comp ref="D202">
+      <value>LED_B</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">XINGLIGHT</field>
+        <field name="MPN">XL-1005UBC</field>
+        <field name="UNIT PRICE">0.066</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="MANUFACTURER" value="XINGLIGHT"/>
+      <property name="MPN" value="XL-1005UBC"/>
+      <property name="UNIT PRICE" value="0.066"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>d0cbbbd3-7938-4439-9f05-05dac45f8f0f</tstamps>
+    </comp>
+    <comp ref="L201">
+      <value>10u</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL05A106MP5NUNC</field>
+        <field name="UNIT PRICE">0.0119 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="MANUFACTURER" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL05A106MP5NUNC"/>
+      <property name="UNIT PRICE" value="0.0119 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Inductor, small symbol"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>d692d2b0-a230-4d32-b285-d00d3ede274d</tstamps>
+    </comp>
+    <comp ref="R201">
+      <value>1K 0.1%</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">YAGEO</field>
+        <field name="MPN">RT0402BRD071KL</field>
+        <field name="UNIT PRICE">.0222</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MANUFACTURER" value="YAGEO"/>
+      <property name="MPN" value="RT0402BRD071KL"/>
+      <property name="UNIT PRICE" value=".0222"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>5b440b9f-8b72-4c7f-ac35-03824e298a1e</tstamps>
+    </comp>
+    <comp ref="R202">
+      <value>1K 0.1%</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">YAGEO</field>
+        <field name="MPN">RT0402BRD071KL</field>
+        <field name="UNIT PRICE">.0222</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MANUFACTURER" value="YAGEO"/>
+      <property name="MPN" value="RT0402BRD071KL"/>
+      <property name="UNIT PRICE" value=".0222"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>6cbc9c09-f724-406a-9ab4-e387d8f9d251</tstamps>
+    </comp>
+    <comp ref="R203">
+      <value>10K 0.1%</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">YAGEO</field>
+        <field name="MPN">RT0402BRE0710KL</field>
+        <field name="UNIT PRICE">0.0212 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MANUFACTURER" value="YAGEO"/>
+      <property name="MPN" value="RT0402BRE0710KL"/>
+      <property name="UNIT PRICE" value="0.0212 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>5f16780e-0fbe-4fec-b25f-42491a37ca67</tstamps>
+    </comp>
+    <comp ref="R204">
+      <value>10K 0.1%</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">YAGEO</field>
+        <field name="MPN">RT0402BRE0710KL</field>
+        <field name="UNIT PRICE">0.0212 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MANUFACTURER" value="YAGEO"/>
+      <property name="MPN" value="RT0402BRE0710KL"/>
+      <property name="UNIT PRICE" value="0.0212 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>d9a182be-a6e8-48e2-8204-d8734402309a</tstamps>
+    </comp>
+    <comp ref="R205">
+      <value>10K 0.1%</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">YAGEO</field>
+        <field name="MPN">RT0402BRE0710KL</field>
+        <field name="UNIT PRICE">0.0212 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="MANUFACTURER" value="YAGEO"/>
+      <property name="MPN" value="RT0402BRE0710KL"/>
+      <property name="UNIT PRICE" value="0.0212 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small symbol"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>169d0283-2fd7-4ba6-bb85-6885d4210b44</tstamps>
+    </comp>
+    <comp ref="SW201">
+      <value>SW_RST</value>
+      <footprint>Button_Switch_SMD:SW_SPST_B3U-1000P</footprint>
+      <fields>
+        <field name="MANUFACTURER">Omron Electronics</field>
+        <field name="MPN">B3U-1000P</field>
+        <field name="UNIT PRICE">0.2648 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="MANUFACTURER" value="Omron Electronics"/>
+      <property name="MPN" value="B3U-1000P"/>
+      <property name="UNIT PRICE" value="0.2648 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>3a6050bf-b384-401b-946f-deb30aabaa3e</tstamps>
+    </comp>
+    <comp ref="SW202">
+      <value>SW_USER</value>
+      <footprint>Button_Switch_SMD:SW_SPST_B3U-1000P</footprint>
+      <fields>
+        <field name="MANUFACTURER">Omron Electronics</field>
+        <field name="MPN">B3U-1000P</field>
+        <field name="UNIT PRICE">0.2648 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="MANUFACTURER" value="Omron Electronics"/>
+      <property name="MPN" value="B3U-1000P"/>
+      <property name="UNIT PRICE" value="0.2648 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>06dbe5cb-2b5d-40a2-a573-257a26175f13</tstamps>
+    </comp>
+    <comp ref="U201">
+      <value>STM32F042K6Ux</value>
+      <footprint>Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/stm32f042k6.pdf</datasheet>
+      <fields>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+        <field name="MPN">STM32F042K6U6TR</field>
+        <field name="UNIT PRICE">3.4348</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="MCU_ST_STM32F0" part="STM32F042K6Ux" description="STMicroelectronics Arm Cortex-M0 MCU, 32KB flash, 6KB RAM, 48 MHz, 2.0-3.6V, 28 GPIO, UFQFPN32"/>
+      <property name="MANUFACTURER" value="STMicroelectronics"/>
+      <property name="MPN" value="STM32F042K6U6TR"/>
+      <property name="UNIT PRICE" value="3.4348"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="STMicroelectronics Arm Cortex-M0 MCU, 32KB flash, 6KB RAM, 48 MHz, 2.0-3.6V, 28 GPIO, UFQFPN32"/>
+      <property name="ki_keywords" value="Arm Cortex-M0 STM32F0 STM32F0x2"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>f1fe2bad-8e98-4dc3-819e-01c204303943</tstamps>
+    </comp>
+    <comp ref="U202">
+      <value>USBLC6-2P6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-666</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
+      <fields>
+        <field name="MANUFACTURER">TECH PUBLIC</field>
+        <field name="MPN">USBLC6-2P6</field>
+        <field name="UNIT PRICE">0.1158</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Power_Protection" part="USBLC6-2P6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-666"/>
+      <property name="MANUFACTURER" value="TECH PUBLIC"/>
+      <property name="MPN" value="USBLC6-2P6"/>
+      <property name="UNIT PRICE" value="0.1158"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="Very low capacitance ESD protection diode, 2 data-line, SOT-666"/>
+      <property name="ki_keywords" value="usb ethernet video"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>d6080bcf-52a5-4171-81f5-ffe86ec68327</tstamps>
+    </comp>
+    <comp ref="U203">
+      <value>24LC1025</value>
+      <footprint>Package_SO:TSSOP-8_4.4x3mm_P0.65mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/21941B.pdf</datasheet>
+      <fields>
+        <field name="MANUFACTURER">FMD(Fremont Micro Devices)</field>
+        <field name="MPN">FT24C1024A-TTR-T</field>
+        <field name="UNIT PRICE">0.5521</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Memory_EEPROM" part="24LC1025" description="I2C Serial EEPROM, 1024Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8"/>
+      <property name="MANUFACTURER" value="FMD(Fremont Micro Devices)"/>
+      <property name="MPN" value="FT24C1024A-TTR-T"/>
+      <property name="UNIT PRICE" value="0.5521"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="STM32F042K6"/>
+      <property name="Sheetfile" value="STM32F042K6.kicad_sch"/>
+      <property name="ki_description" value="I2C Serial EEPROM, 1024Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8"/>
+      <property name="ki_keywords" value="I2C Serial EEPROM"/>
+      <sheetpath names="/STM32F042K6/" tstamps="/4637f5df-75b6-4e56-b1be-e542b5744b07/"/>
+      <tstamps>d19db8e5-88af-4cd4-801c-7c5f2738c519</tstamps>
+    </comp>
+    <comp ref="AE301">
+      <value>Antenna_Shield</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_901-143_Horizontal</footprint>
+      <fields>
+        <field name="MANUFACTURER">BAT WIRELESS</field>
+        <field name="MPN">BWSMA-KWE-Z001</field>
+        <field name="UNIT PRICE">0.4407 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="Antenna_Shield" description="Antenna with extra pin for shielding"/>
+      <property name="MANUFACTURER" value="BAT WIRELESS"/>
+      <property name="MPN" value="BWSMA-KWE-Z001"/>
+      <property name="UNIT PRICE" value="0.4407 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="RF_LORA_RA-01"/>
+      <property name="Sheetfile" value="RF_LORA_RA-01.kicad_sch"/>
+      <property name="ki_description" value="Antenna with extra pin for shielding"/>
+      <property name="ki_keywords" value="antenna"/>
+      <sheetpath names="/RF_LORA_RA-01/" tstamps="/13943843-5d8a-4b85-91a9-cba34e9c07a7/"/>
+      <tstamps>15ac45a9-f8e2-472f-8fa2-7c4abb66e7f6</tstamps>
+    </comp>
+    <comp ref="C301">
+      <value>2u2</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL05A225MP5NSNC</field>
+        <field name="UNIT PRICE">0.0038</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL05A225MP5NSNC"/>
+      <property name="UNIT PRICE" value="0.0038"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="RF_LORA_RA-01"/>
+      <property name="Sheetfile" value="RF_LORA_RA-01.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/RF_LORA_RA-01/" tstamps="/13943843-5d8a-4b85-91a9-cba34e9c07a7/"/>
+      <tstamps>e5504d67-175b-4bf3-a1a3-5521de06b3f3</tstamps>
+    </comp>
+    <comp ref="C302">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">CCTC</field>
+        <field name="MPN">TCC0402X7R104K160AT</field>
+        <field name="UNIT PRICE">0.0009 </field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="MANUFACTURER" value="CCTC"/>
+      <property name="MPN" value="TCC0402X7R104K160AT"/>
+      <property name="UNIT PRICE" value="0.0009 "/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="RF_LORA_RA-01"/>
+      <property name="Sheetfile" value="RF_LORA_RA-01.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/RF_LORA_RA-01/" tstamps="/13943843-5d8a-4b85-91a9-cba34e9c07a7/"/>
+      <tstamps>2280d539-2b4b-4390-b33a-f320d57b43a1</tstamps>
+    </comp>
+    <comp ref="U301">
+      <value>Ai-Thinker-Ra-01</value>
+      <footprint>RF_Module:Ai-Thinker-Ra-01-LoRa</footprint>
+      <datasheet>http://wiki.ai-thinker.com/_media/lora/docs/c047ps01a1_ra-01_product_specification_v1.1.pdf</datasheet>
+      <fields>
+        <field name="MANUFACTURER">Ai-Thinker</field>
+        <field name="MPN">Ra-01SC-I</field>
+        <field name="UNIT PRICE">3.5001</field>
+        <field name="VENDOR">LCSC</field>
+      </fields>
+      <libsource lib="RF_Module" part="Ai-Thinker-Ra-01" description="Ai-Thinker Ra-01 410-525 MHz LoRa Module, SPI interface, external antenna"/>
+      <property name="MANUFACTURER" value="Ai-Thinker"/>
+      <property name="MPN" value="Ra-01SC-I"/>
+      <property name="UNIT PRICE" value="3.5001"/>
+      <property name="VENDOR" value="LCSC"/>
+      <property name="Sheetname" value="RF_LORA_RA-01"/>
+      <property name="Sheetfile" value="RF_LORA_RA-01.kicad_sch"/>
+      <property name="ki_description" value="Ai-Thinker Ra-01 410-525 MHz LoRa Module, SPI interface, external antenna"/>
+      <property name="ki_keywords" value="Ra-01 LoRa"/>
+      <sheetpath names="/RF_LORA_RA-01/" tstamps="/13943843-5d8a-4b85-91a9-cba34e9c07a7/"/>
+      <tstamps>67397298-f887-4266-be42-9cbae3f97810</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_A">
+      <description>USB Type A connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_A</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_in"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Antenna_Shield">
+      <description>Antenna with extra pin for shielding</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">AE</field>
+        <field name="Value">Antenna_Shield</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="input"/>
+        <pin num="2" name="Shield" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead_Small">
+      <description>Ferrite bead, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LED" part="WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32F0" part="STM32F042K6Ux">
+      <description>STMicroelectronics Arm Cortex-M0 MCU, 32KB flash, 6KB RAM, 48 MHz, 2.0-3.6V, 28 GPIO, UFQFPN32</description>
+      <docs>https://www.st.com/resource/en/datasheet/stm32f042k6.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*5x5mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F042K6Ux</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32f042k6.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="PF0" type="bidirectional"/>
+        <pin num="3" name="PF1" type="bidirectional"/>
+        <pin num="4" name="NRST" type="input"/>
+        <pin num="5" name="VDDA" type="power_in"/>
+        <pin num="6" name="PA0" type="bidirectional"/>
+        <pin num="7" name="PA1" type="bidirectional"/>
+        <pin num="8" name="PA2" type="bidirectional"/>
+        <pin num="9" name="PA3" type="bidirectional"/>
+        <pin num="10" name="PA4" type="bidirectional"/>
+        <pin num="11" name="PA5" type="bidirectional"/>
+        <pin num="12" name="PA6" type="bidirectional"/>
+        <pin num="13" name="PA7" type="bidirectional"/>
+        <pin num="14" name="PB0" type="bidirectional"/>
+        <pin num="15" name="PB1" type="bidirectional"/>
+        <pin num="16" name="PB2" type="bidirectional"/>
+        <pin num="17" name="VDDIO2" type="power_in"/>
+        <pin num="18" name="PA8" type="bidirectional"/>
+        <pin num="19" name="PA9" type="bidirectional"/>
+        <pin num="20" name="PA10" type="bidirectional"/>
+        <pin num="21" name="PA11" type="bidirectional"/>
+        <pin num="22" name="PA12" type="bidirectional"/>
+        <pin num="23" name="PA13" type="bidirectional"/>
+        <pin num="24" name="PA14" type="bidirectional"/>
+        <pin num="25" name="PA15" type="bidirectional"/>
+        <pin num="26" name="PB3" type="bidirectional"/>
+        <pin num="27" name="PB4" type="bidirectional"/>
+        <pin num="28" name="PB5" type="bidirectional"/>
+        <pin num="29" name="PB6" type="bidirectional"/>
+        <pin num="30" name="PB7" type="bidirectional"/>
+        <pin num="31" name="PF11" type="bidirectional"/>
+        <pin num="32" name="PB8" type="bidirectional"/>
+        <pin num="33" name="VSS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Memory_EEPROM" part="24LC1025">
+      <description>I2C Serial EEPROM, 1024Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/21941B.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x4.9mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>DFN*3x2mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">24LC1025</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/21941B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SDA" type="bidirectional"/>
+        <pin num="6" name="SCL" type="input"/>
+        <pin num="7" name="WP" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="USBLC6-2P6">
+      <description>Very low capacitance ESD protection diode, 2 data-line, SOT-666</description>
+      <docs>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</docs>
+      <footprints>
+        <fp>SOT?666*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">USBLC6-2P6</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-666</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="I/O2" type="passive"/>
+        <pin num="5" name="VBUS" type="passive"/>
+        <pin num="6" name="I/O1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RF_Module" part="Ai-Thinker-Ra-01">
+      <description>Ai-Thinker Ra-01 410-525 MHz LoRa Module, SPI interface, external antenna</description>
+      <docs>http://wiki.ai-thinker.com/_media/lora/docs/c047ps01a1_ra-01_product_specification_v1.1.pdf</docs>
+      <footprints>
+        <fp>Ai?Thinker?Ra?01*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Ai-Thinker-Ra-01</field>
+        <field name="Footprint">RF_Module:Ai-Thinker-Ra-01-LoRa</field>
+        <field name="Datasheet">http://wiki.ai-thinker.com/_media/lora/docs/c047ps01a1_ra-01_product_specification_v1.1.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ANT" type="passive"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="~{RESET}" type="input"/>
+        <pin num="5" name="DIO0" type="bidirectional"/>
+        <pin num="6" name="DIO1" type="bidirectional"/>
+        <pin num="7" name="DIO2" type="bidirectional"/>
+        <pin num="8" name="DIO3" type="bidirectional"/>
+        <pin num="9" name="GND" type="passive"/>
+        <pin num="10" name="DIO4" type="bidirectional"/>
+        <pin num="11" name="DIO5" type="bidirectional"/>
+        <pin num="12" name="SCK" type="input"/>
+        <pin num="13" name="MISO" type="output"/>
+        <pin num="14" name="MOSI" type="input"/>
+        <pin num="15" name="~{NSS}" type="input"/>
+        <pin num="16" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="TLV75533PDRV">
+      <description>500mA Low Dropout Voltage Regulator, Fixed Output 3.3V, WSON6</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tlv755p.pdf</docs>
+      <footprints>
+        <fp>WSON*1EP*2x2mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLV75533PDRV</field>
+        <field name="Footprint">Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tlv755p.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="NC" type="no_connect"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="NC" type="no_connect"/>
+        <pin num="6" name="IN" type="power_in"/>
+        <pin num="7" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/LED.kicad_sym</uri>
+    </library>
+    <library logical="MCU_ST_STM32F0">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/MCU_ST_STM32F0.kicad_sym</uri>
+    </library>
+    <library logical="Memory_EEPROM">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Memory_EEPROM.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="RF_Module">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/RF_Module.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C104" pin="1" pintype="passive"/>
+      <node ref="C105" pin="1" pintype="passive"/>
+      <node ref="C106" pin="1" pintype="passive"/>
+      <node ref="C107" pin="1" pintype="passive"/>
+      <node ref="C201" pin="1" pintype="passive"/>
+      <node ref="C202" pin="1" pintype="passive"/>
+      <node ref="C203" pin="1" pintype="passive"/>
+      <node ref="C301" pin="1" pintype="passive"/>
+      <node ref="C302" pin="1" pintype="passive"/>
+      <node ref="D101" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D102" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L201" pin="1" pintype="passive"/>
+      <node ref="R201" pin="2" pintype="passive"/>
+      <node ref="R203" pin="2" pintype="passive"/>
+      <node ref="R204" pin="1" pintype="passive"/>
+      <node ref="R205" pin="1" pintype="passive"/>
+      <node ref="U101" pin="1" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U201" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U201" pin="17" pinfunction="VDDIO2" pintype="power_in"/>
+      <node ref="U202" pin="5" pinfunction="VBUS" pintype="passive"/>
+      <node ref="U203" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U301" pin="3" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C102" pin="1" pintype="passive"/>
+      <node ref="C103" pin="1" pintype="passive"/>
+      <node ref="FB101" pin="2" pintype="passive"/>
+      <node ref="U101" pin="4" pinfunction="EN" pintype="input"/>
+      <node ref="U101" pin="6" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="3" name="/D+">
+      <node ref="J101" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U102" pin="1" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="4" name="/D-">
+      <node ref="J101" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U102" pin="3" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="5" name="/RF_LORA_RA-01/ANT">
+      <node ref="AE301" pin="1" pinfunction="A" pintype="input"/>
+      <node ref="U301" pin="1" pinfunction="ANT" pintype="passive"/>
+    </net>
+    <net code="6" name="/RF_LORA_RA-01/LORA_DIO0">
+      <node ref="U201" pin="28" pinfunction="PB5" pintype="bidirectional"/>
+      <node ref="U301" pin="5" pinfunction="DIO0" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/RF_LORA_RA-01/LORA_DIO1">
+      <node ref="U201" pin="27" pinfunction="PB4" pintype="bidirectional"/>
+      <node ref="U301" pin="6" pinfunction="DIO1" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/RF_LORA_RA-01/LORA_MISO">
+      <node ref="U201" pin="12" pinfunction="PA6" pintype="bidirectional"/>
+      <node ref="U301" pin="13" pinfunction="MISO" pintype="output"/>
+    </net>
+    <net code="9" name="/RF_LORA_RA-01/LORA_MOSI">
+      <node ref="U201" pin="13" pinfunction="PA7" pintype="bidirectional"/>
+      <node ref="U301" pin="14" pinfunction="MOSI" pintype="input"/>
+    </net>
+    <net code="10" name="/RF_LORA_RA-01/LORA_NCS">
+      <node ref="U201" pin="14" pinfunction="PB0" pintype="bidirectional"/>
+      <node ref="U301" pin="15" pinfunction="~{NSS}" pintype="input"/>
+    </net>
+    <net code="11" name="/RF_LORA_RA-01/LORA_RST">
+      <node ref="U201" pin="31" pinfunction="PF11" pintype="bidirectional"/>
+      <node ref="U301" pin="4" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="12" name="/RF_LORA_RA-01/LORA_SCK">
+      <node ref="U201" pin="11" pinfunction="PA5" pintype="bidirectional"/>
+      <node ref="U301" pin="12" pinfunction="SCK" pintype="input"/>
+    </net>
+    <net code="13" name="/STM32F042K6/BTN">
+      <node ref="R203" pin="1" pintype="passive"/>
+      <node ref="SW202" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U201" pin="26" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/STM32F042K6/I2C1_SCL">
+      <node ref="U201" pin="29" pinfunction="PB6" pintype="bidirectional"/>
+      <node ref="U203" pin="6" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="15" name="/STM32F042K6/I2C1_SDA">
+      <node ref="U201" pin="30" pinfunction="PB7" pintype="bidirectional"/>
+      <node ref="U203" pin="5" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/STM32F042K6/LED">
+      <node ref="D201" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U201" pin="16" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/STM32F042K6/NRST">
+      <node ref="C206" pin="1" pintype="passive"/>
+      <node ref="R204" pin="2" pintype="passive"/>
+      <node ref="SW201" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U201" pin="4" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="18" name="/STM32F042K6/SWCLK">
+      <node ref="U201" pin="24" pinfunction="PA14" pintype="bidirectional"/>
+      <node ref="U202" pin="4" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="19" name="/STM32F042K6/SWCLK_IN">
+      <node ref="U202" pin="3" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="20" name="/STM32F042K6/SWDIO">
+      <node ref="U201" pin="23" pinfunction="PA13" pintype="bidirectional"/>
+      <node ref="U202" pin="6" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="21" name="/STM32F042K6/SWDIO_IN">
+      <node ref="U202" pin="1" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="22" name="/STM32F042K6/USART2_RX">
+      <node ref="U201" pin="9" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/STM32F042K6/USART2_TX">
+      <node ref="U201" pin="8" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/STM32F042K6/USB_NOE">
+      <node ref="D202" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U201" pin="25" pinfunction="PA15" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/STM32F042K6/WS2812_1">
+      <node ref="D102" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="U201" pin="10" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/STM32F042K6/WS2812_2">
+      <node ref="D101" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="U201" pin="32" pinfunction="PB8" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/USB_DN">
+      <node ref="U102" pin="4" pinfunction="I/O2" pintype="passive"/>
+      <node ref="U201" pin="21" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/USB_DP">
+      <node ref="U102" pin="6" pinfunction="I/O1" pintype="passive"/>
+      <node ref="U201" pin="22" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="GND">
+      <node ref="AE301" pin="2" pinfunction="Shield" pintype="input"/>
+      <node ref="C101" pin="2" pintype="passive"/>
+      <node ref="C102" pin="2" pintype="passive"/>
+      <node ref="C103" pin="2" pintype="passive"/>
+      <node ref="C104" pin="2" pintype="passive"/>
+      <node ref="C105" pin="2" pintype="passive"/>
+      <node ref="C106" pin="2" pintype="passive"/>
+      <node ref="C107" pin="2" pintype="passive"/>
+      <node ref="C201" pin="2" pintype="passive"/>
+      <node ref="C202" pin="2" pintype="passive"/>
+      <node ref="C203" pin="2" pintype="passive"/>
+      <node ref="C204" pin="2" pintype="passive"/>
+      <node ref="C205" pin="2" pintype="passive"/>
+      <node ref="C206" pin="2" pintype="passive"/>
+      <node ref="C301" pin="2" pintype="passive"/>
+      <node ref="C302" pin="2" pintype="passive"/>
+      <node ref="D101" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D102" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J101" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="R202" pin="1" pintype="passive"/>
+      <node ref="SW201" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW202" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U101" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U101" pin="7" pinfunction="GND" pintype="passive"/>
+      <node ref="U102" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U201" pin="33" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U202" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U203" pin="1" pinfunction="A0" pintype="input"/>
+      <node ref="U203" pin="2" pinfunction="A1" pintype="input"/>
+      <node ref="U203" pin="3" pinfunction="A2" pintype="input"/>
+      <node ref="U203" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U301" pin="16" pinfunction="GND" pintype="passive"/>
+      <node ref="U301" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U301" pin="9" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D201-K)">
+      <node ref="D201" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R202" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D202-A)">
+      <node ref="D202" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R201" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(U203-WP)">
+      <node ref="R205" pin="2" pintype="passive"/>
+      <node ref="U203" pin="7" pinfunction="WP" pintype="input"/>
+    </net>
+    <net code="33" name="VBUS">
+      <node ref="C101" pin="1" pintype="passive"/>
+      <node ref="FB101" pin="1" pintype="passive"/>
+      <node ref="J101" pin="1" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="U102" pin="5" pinfunction="VBUS" pintype="passive"/>
+    </net>
+    <net code="34" name="VDDA">
+      <node ref="C204" pin="1" pintype="passive"/>
+      <node ref="C205" pin="1" pintype="passive"/>
+      <node ref="L201" pin="2" pintype="passive"/>
+      <node ref="U201" pin="5" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="35" name="unconnected-(D101-DOUT-Pad2)">
+      <node ref="D101" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(D102-DOUT-Pad2)">
+      <node ref="D102" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(J101-Shield-Pad5)">
+      <node ref="J101" pin="5" pinfunction="Shield" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U101-NC-Pad2)">
+      <node ref="U101" pin="2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U101-NC-Pad5)">
+      <node ref="U101" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U201-PA0-Pad6)">
+      <node ref="U201" pin="6" pinfunction="PA0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U201-PA1-Pad7)">
+      <node ref="U201" pin="7" pinfunction="PA1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U201-PA8-Pad18)">
+      <node ref="U201" pin="18" pinfunction="PA8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U201-PA9-Pad19)">
+      <node ref="U201" pin="19" pinfunction="PA9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U201-PA10-Pad20)">
+      <node ref="U201" pin="20" pinfunction="PA10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U201-PB1-Pad15)">
+      <node ref="U201" pin="15" pinfunction="PB1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U201-PF0-Pad2)">
+      <node ref="U201" pin="2" pinfunction="PF0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U201-PF1-Pad3)">
+      <node ref="U201" pin="3" pinfunction="PF1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U301-DIO2-Pad7)">
+      <node ref="U301" pin="7" pinfunction="DIO2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U301-DIO3-Pad8)">
+      <node ref="U301" pin="8" pinfunction="DIO3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U301-DIO4-Pad10)">
+      <node ref="U301" pin="10" pinfunction="DIO4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U301-DIO5-Pad11)">
+      <node ref="U301" pin="11" pinfunction="DIO5" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>

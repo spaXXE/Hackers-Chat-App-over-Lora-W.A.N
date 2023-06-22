@@ -1,0 +1,26 @@
+### Footprint positions - created on Thu Jun 22 14:20:25 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                                     PosX       PosY       Rot  Side
+C101      2u2             C_0402_1005Metric                       138.6054  -106.8324  180.0000  bottom
+C103      2u2             C_0402_1005Metric                       143.5376  -106.4036  -90.0000  bottom
+C104      2u2             C_0402_1005Metric                       145.4426  -108.4356  180.0000  bottom
+C105      100n            C_0402_1005Metric                       145.4426  -109.4486  180.0000  bottom
+C201      100n            C_0402_1005Metric                       143.5100  -103.9342  -90.0000  bottom
+C202      100n            C_0402_1005Metric                       151.2260   -99.4664   90.0000  bottom
+C203      2u2             C_0402_1005Metric                       152.2984   -99.4436   90.0000  bottom
+C204      2u2             C_0402_1005Metric                       151.2316  -102.3848  -90.0000  bottom
+C205      100n            C_0402_1005Metric                       152.3032  -102.3900  -90.0000  bottom
+C206      2u2             C_0402_1005Metric                       138.6062  -107.9021  180.0000  bottom
+C301      2u2             C_0402_1005Metric                       155.6004   -95.7326    0.0000  bottom
+C302      100n            C_0402_1005Metric                       155.6004   -96.9010    0.0000  bottom
+FB101     220R@100MHz_1A  L_0402_1005Metric                       140.9978  -106.8578    0.0000  bottom
+L201      10u             L_0402_1005Metric                       153.3144  -100.9396  -90.0000  bottom
+R201      10K_0.1%        R_0402_1005Metric                       140.9934  -107.9021  180.0000  bottom
+R205      10K_0.1%        R_0402_1005Metric                       152.8914   -95.7296  180.0000  bottom
+U101      TLV75533PDRV    WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm      145.4296  -106.5291   90.0000  bottom
+U201      USBLC6-2P6      SOT-666                                 143.9459   -96.2914  -90.0000  bottom
+U202      STM32F042K6Ux   QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm   147.3756  -101.6736  180.0000  bottom
+U203      24LC1025        TSSOP-8_4.4x3mm_P0.65mm                 153.3889   -93.3546  180.0000  bottom
+## End
